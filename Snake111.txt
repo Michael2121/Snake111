@@ -1,0 +1,40 @@
+<meta charset="utf-8">
+<script>
+
+var a = prompt('');
+
+if (a == '') {
+    alert('');
+}  else { 
+alert('');
+}
+
+var b = prompt('');
+
+if (b==''){ 
+alert('');
+ } else{
+ alert('');	
+ }
+
+var c = prompt('');
+
+if (c == ''){
+	alert('');
+} else{
+alert('');	
+}  
+
+var d = prompt('');
+
+if ( d == ''){
+	alert('');
+}  else{
+alert('');	
+}
+
+
+
+alert('');
+
+</script>
