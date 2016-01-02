@@ -33,6 +33,14 @@ if ( d == ''){
 alert('');	
 }
 
+var f = prompt(');
+
+if ( f == ''){
+    alert('');
+}   else{
+alert('');
+}
+
 
 
 alert('');
